@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Science
 
 #  Trader Behavior Analysis vs Bitcoin Market Sentiment
 
